@@ -1,5 +1,9 @@
 # List of useful links:
 
+## Virtual Env
+
+- [Run Jupyter in virtual env](http://technivore.org/posts/2016/02/27/windows-jupyter-three-ways.html) 
+
 ## Conda
 
 - [conda](https://conda.io/docs/user-guide/tasks/manage-environments.html) 
